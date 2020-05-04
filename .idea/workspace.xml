@@ -53,7 +53,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/org/magnetocorp/AddToWallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ClientTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../fabcar/SmartContractTraid-1/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../fabcar/SmartContractTraid-1/src/main/java/by/ids/contract/TradeItemContract.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../fabcar/SmartContractTraid-1/src/main/java/by/ids/entity/Status.java" afterDir="false" />
@@ -66,10 +65,10 @@
       <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/magnetocorp/AddToWallet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/magnetocorp/Issue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/papernet/CommercialPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/papernet/CommercialPaper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/papernet/ledgerapi/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org/papernet/ledgerapi/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/papernet/CommercialPaper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/papernet/ledgerapi/State.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../fabcar/java/src/main/java/org/example/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../fabcar/java/src/main/java/org/example/ClientApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../fabcar/java/src/main/java/org/example/EnrollAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../fabcar/java/src/main/java/org/example/EnrollAdmin.java" afterDir="false" />
     </list>
@@ -105,11 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/org/magnetocorp/AddToWallet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,23 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/ClientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -154,7 +141,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -164,6 +151,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/ClineTest.java" />
         <option value="$PROJECT_DIR$/src/test/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/org/magnetocorp/AddToWallet.java" />
         <option value="$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java" />
       </list>
     </option>
@@ -235,25 +223,6 @@
               <item name="org" type="462c0819:PsiDirectoryNode" />
               <item name="magnetocorp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="commercial-paper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="application-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="papernet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commercial-paper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="application-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="commercial-paper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="application-java" type="462c0819:PsiDirectoryNode" />
-              <item name="wallet" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588587067496" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588587075466" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -340,7 +309,7 @@
       <updated>1588158076586</updated>
       <workItem from="1588158080673" duration="5235000" />
       <workItem from="1588227857247" duration="8599000" />
-      <workItem from="1588586765769" duration="286000" />
+      <workItem from="1588586765769" duration="501000" />
     </task>
     <servers />
   </component>
@@ -371,12 +340,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14120000" />
+    <option name="totallyTimeSpent" value="14335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +363,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -421,13 +391,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java</url>
-          <line>33</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java</url>
-          <line>62</line>
+          <line>60</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
@@ -445,7 +415,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java</url>
-          <line>66</line>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -496,23 +466,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/org/magnetocorp/AddToWallet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="39" column="55" lean-forward="true" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+        <state relative-caret-position="152">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/org/magnetocorp/AddToWallet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/org/magnetocorp/Issue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
